@@ -2,9 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: devops-bootcamp
-  annotations:
-    github.com/project-slug: liatrio/devops-bootcamp
+  # annotations:
+  #   github.com/project-slug: bulls-shit/devops-bootcamp
 spec:
-  type: documentation
+  type: website
   lifecycle: production
-  owner: flywheel-core
+  owner: admin-shits
