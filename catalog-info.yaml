@@ -12,4 +12,4 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: group:admin-shits
+  owner: group:group/admin-shits
